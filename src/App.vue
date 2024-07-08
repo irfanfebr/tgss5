@@ -81,7 +81,7 @@
     </q-page-container>
 
     <q-footer elevated class="bg-grey-8 text-white text-center q-pa-md">
-      <em> @copyright </em> Fatih Masrukhan
+      <em> @copyright </em> M Irfan Pebriadi
     </q-footer>
   </q-layout>
 
